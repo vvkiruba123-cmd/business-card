@@ -1,0 +1,23 @@
+body{
+  margin:20px;
+}
+.image{
+  border-bottom: 4px solid rgb(94, 66, 66);
+  width :200px;
+  border-radius: 30px;
+}
+.card{
+  border-bottom: 4px solid rgb(94, 66, 66);
+  border-radius: 30px;
+  width: 500px;
+  padding: 20px;
+  display: flex;
+  background: rgb(135, 223, 226);
+}
+.text-wrap{
+  margin-left: 50px;
+  border-radius: 20px;
+  width:200px;
+  padding-left: 30px;
+  font-family: sans-serif ;
+}
